@@ -10,5 +10,5 @@ We have created a clean page to allow the user to filter through the different s
 Drawback: The filter can only look at one id at a time. For example, people can't select 2 states at the same time.
 
 My recommendations: 
-- 1. a drop-down menu where you can select multiple criteria would improve the situation.
-- 2.  We can also improve the user experenice by including the ability to sort the table by more recent or least recent.
+- A drop-down menu where you can select multiple criteria would improve the situation.
+- We can also improve the user experenice by including the ability to sort the table by more recent or least recent.
