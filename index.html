@@ -37,17 +37,28 @@
         <div class="container-fluid">
             <div class="row">
               <div class="col-md-3">
-                <form>
-                    <p style="background-color:bg-dark">Filter Search</p>
-                    
-                    <ul class="list-group", style="background-color:bg-dark" >
-                        <li style="color: bg-dark" class="list-group-item bg-dark text-white">
+                <form class="bg-dark">
+                    <p>Filter Search</p>                    
+                    <ul class="list-group", style="background-color:bg-dark, text-white" >
+                        <li class="list-group-item bg-dark text-white">
                             <label for="date">Enter Date</label>
-                            <input type="text" style="background-color:bg-dark" placeholder="1/10/2010" id="datetime" />
+                            <input type="text" placeholder="1/10/2010" id="datetime" />
                         </li>
-                        <li class="list-group-item, row justify-content-center">
-                            <button id="filter-btn" type="button" class="btn btn-dark", Centered button,text-align: center;>
-                                Filter Table</button>
+                        <li class="list-group-item bg-dark text-white">
+                            <label for="city">Enter a City</label><br>
+                            <input type="text" class="form-control w-100" placeholder="benton" id="city" />
+                        </li>
+                        <li class="list-group-item bg-dark text-white">
+                            <label for="state">Enter a State</label><br>
+                            <input type="text" class="form-control w-100" placeholder="ca" id="state" />
+                        </li>
+                        <li class="list-group-item bg-dark text-white">
+                            <label for="country">Enter a Country</label><br>
+                            <input type="text" class="form-control w-100" placeholder="us" id="country" />
+                        </li>
+                        <li class="list-group-item bg-dark text-white">
+                            <label for="shape">Enter a Shape</label><br>
+                            <input type="text" class="form-control w-100" placeholder="circle" id="shape" />
                         </li>
                     </ul>
              
