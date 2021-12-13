@@ -3,6 +3,11 @@
 This project is to create a dynamic table based upon UFO sightings dataset that will allow users to filter for multiple criteria at the same time, such as city, state, country, and shape etc.  We will be utilizing JavaScript, HTML, CSS and D3.js to create our webpage.
 
 ## Results:
+Multiple selection:
+* by City
+![filtered](https://github.com/echoqshen/UFOs/blob/main/images/filtered.png)
+* by State
+![by state](https://github.com/echoqshen/UFOs/blob/main/images/filtered%201.png)
 
 ## Summary: 
 We have created a clean page to allow the user to filter through the different sitings in our dataset using the search bars created. 
