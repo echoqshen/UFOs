@@ -6,7 +6,9 @@ This project is to create a dynamic table based upon UFO sightings dataset that 
 
 ## Summary: 
 We have created a clean page to allow the user to filter through the different sitings in our dataset using the search bars created. 
-* drawback: The filter can only look at one id at a time. For example, people can't select 2 states at the same time.
+
+Drawback: The filter can only look at one id at a time. For example, people can't select 2 states at the same time.
+
 My recommendations: 
-* a drop-down menu where you can select multiple criteria would improve the situation.
-* We can also improve the user experenice by including the ability to sort the table by more recent or least recent.
+- 1. a drop-down menu where you can select multiple criteria would improve the situation.
+- 2.  We can also improve the user experenice by including the ability to sort the table by more recent or least recent.
